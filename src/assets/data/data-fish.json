@@ -1,0 +1,1745 @@
+[
+  {
+    "key": "gpx0",
+    "title": "Kabupaten Berau",
+    "fish data": [
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG LAUT",
+        "Kabupaten/Kota": "BERAU",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "KERAPU",
+        "Jenis Ikan": "KERAPU MACAN",
+        "Volume Produksi (Ton)": 154.49,
+        "Nilai Produksi (Rp 000)": 24718560
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG LAUT",
+        "Kabupaten/Kota": "BERAU",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "LOBSTER AIR LAUT",
+        "Jenis Ikan": "LOBSTER BAMBU",
+        "Volume Produksi (Ton)": 27.75,
+        "Nilai Produksi (Rp 000)": 10543860
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "BERAU",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "MAS",
+        "Jenis Ikan": "MAS",
+        "Volume Produksi (Ton)": 20.94,
+        "Nilai Produksi (Rp 000)": 1256400
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "BERAU",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 20.95,
+        "Nilai Produksi (Rp 000)": 942750
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "BERAU",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "PATIN",
+        "Jenis Ikan": "PATIN",
+        "Volume Produksi (Ton)": 22.74,
+        "Nilai Produksi (Rp 000)": 795900
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "BERAU",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "LELE",
+        "Jenis Ikan": "LELE",
+        "Volume Produksi (Ton)": 141.53,
+        "Nilai Produksi (Rp 000)": 3538250
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "BERAU",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "MAS",
+        "Jenis Ikan": "MAS",
+        "Volume Produksi (Ton)": 94.01,
+        "Nilai Produksi (Rp 000)": 5640600
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "BERAU",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 214.74,
+        "Nilai Produksi (Rp 000)": 9663300
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "BERAU",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "PATIN",
+        "Jenis Ikan": "PATIN",
+        "Volume Produksi (Ton)": 113.77,
+        "Nilai Produksi (Rp 000)": 3981950
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "RUMPUT LAUT",
+        "Kabupaten/Kota": "BERAU",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "RUMPUT LAUT",
+        "Jenis Ikan": "RUMPUT LAUT EUCHEUMA SPINOSUM",
+        "Volume Produksi (Ton)": 762,
+        "Nilai Produksi (Rp 000)": 1714500
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "BERAU",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "BANDENG",
+        "Jenis Ikan": "BANDENG",
+        "Volume Produksi (Ton)": 1170.39,
+        "Nilai Produksi (Rp 000)": 19896630
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "BERAU",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "UDANG",
+        "Jenis Ikan": "UDANG BINTIK MERAH",
+        "Volume Produksi (Ton)": 143.93,
+        "Nilai Produksi (Rp 000)": 7196500
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "BERAU",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "UDANG",
+        "Jenis Ikan": "UDANG WINDU",
+        "Volume Produksi (Ton)": 1008.65,
+        "Nilai Produksi (Rp 000)": 166427250
+      }
+    ]
+  },
+  {
+    "key": "gpx1",
+    "title": "Kota Balikpapan",
+    "fish data": [
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KOTA BALIKPAPAN",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "GURAMI",
+        "Jenis Ikan": "GURAME; GURAMI",
+        "Volume Produksi (Ton)": 0.78,
+        "Nilai Produksi (Rp 000)": 48750
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KOTA BALIKPAPAN",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "LELE",
+        "Jenis Ikan": "LELE",
+        "Volume Produksi (Ton)": 125.82,
+        "Nilai Produksi (Rp 000)": 2601930
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KOTA BALIKPAPAN",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 8.42,
+        "Nilai Produksi (Rp 000)": 336720
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KOTA BALIKPAPAN",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "PATIN",
+        "Jenis Ikan": "PATIN",
+        "Volume Produksi (Ton)": 1.50,
+        "Nilai Produksi (Rp 000)": 37500
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "RUMPUT LAUT",
+        "Kabupaten/Kota": "KOTA BALIKPAPAN",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "RUMPUT LAUT",
+        "Jenis Ikan": "RUMPUT LAUT EUCHEUMA COTTONII",
+        "Volume Produksi (Ton)": 187.38,
+        "Nilai Produksi (Rp 000)": 936920
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KOTA BALIKPAPAN",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "BANDENG",
+        "Jenis Ikan": "BANDENG",
+        "Volume Produksi (Ton)": 3.48,
+        "Nilai Produksi (Rp 000)": 104310
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KOTA BALIKPAPAN",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "KEPITING",
+        "Jenis Ikan": "KEPITING BAKAU ",
+        "Volume Produksi (Ton)": 24.78,
+        "Nilai Produksi (Rp 000)": 2418276
+      }
+    ]
+  },
+  {
+    "key": "gpx2",
+    "title": "Kota Bontang",
+    "fish data": [
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG LAUT",
+        "Kabupaten/Kota": "KOTA BONTANG",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "BAWAL BINTANG",
+        "Jenis Ikan": "BAWAL BINTANG",
+        "Volume Produksi (Ton)": 1.93,
+        "Nilai Produksi (Rp 000)": 134820
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG LAUT",
+        "Kabupaten/Kota": "KOTA BONTANG",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "KUWE",
+        "Volume Produksi (Ton)": 9.95,
+        "Nilai Produksi (Rp 000)": 447750
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG LAUT",
+        "Kabupaten/Kota": "KOTA BONTANG",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "KAKAP",
+        "Jenis Ikan": "KAKAP MERAH BAKAU",
+        "Volume Produksi (Ton)": 7.43,
+        "Nilai Produksi (Rp 000)": 408595
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG LAUT",
+        "Kabupaten/Kota": "KOTA BONTANG",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "KERAPU",
+        "Jenis Ikan": "KERAPU LUMPUR",
+        "Volume Produksi (Ton)": 16.32,
+        "Nilai Produksi (Rp 000)": 897600
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG LAUT",
+        "Kabupaten/Kota": "KOTA BONTANG",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "KERAPU",
+        "Jenis Ikan": "KERAPU SUNU",
+        "Volume Produksi (Ton)": 13.21,
+        "Nilai Produksi (Rp 000)": 660300
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG LAUT",
+        "Kabupaten/Kota": "KOTA BONTANG",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "LOBSTER AIR LAUT",
+        "Jenis Ikan": "LOBSTER",
+        "Volume Produksi (Ton)": 2.70,
+        "Nilai Produksi (Rp 000)": 810000
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG LAUT",
+        "Kabupaten/Kota": "KOTA BONTANG",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "LOBSTER AIR LAUT",
+        "Jenis Ikan": "LOBSTER BAMBU",
+        "Volume Produksi (Ton)": 2.92,
+        "Nilai Produksi (Rp 000)": 875700
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING TANCAP TAWAR",
+        "Kabupaten/Kota": "KOTA BONTANG",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "LELE",
+        "Jenis Ikan": "LELE",
+        "Volume Produksi (Ton)": 31.48,
+        "Nilai Produksi (Rp 000)": 786925
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING TANCAP TAWAR",
+        "Kabupaten/Kota": "KOTA BONTANG",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "PATIN",
+        "Jenis Ikan": "PATIN",
+        "Volume Produksi (Ton)": 2.54,
+        "Nilai Produksi (Rp 000)": 101400
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KOTA BONTANG",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "GURAMI",
+        "Jenis Ikan": "GURAME; GURAMI",
+        "Volume Produksi (Ton)": 1.54,
+        "Nilai Produksi (Rp 000)": 77000
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KOTA BONTANG",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "LELE",
+        "Jenis Ikan": "LELE",
+        "Volume Produksi (Ton)": 45.56,
+        "Nilai Produksi (Rp 000)": 1275540
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KOTA BONTANG",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "MAS",
+        "Jenis Ikan": "MAS",
+        "Volume Produksi (Ton)": 3.14,
+        "Nilai Produksi (Rp 000)": 109725
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KOTA BONTANG",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 3.12,
+        "Nilai Produksi (Rp 000)": 93600
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "RUMPUT LAUT",
+        "Kabupaten/Kota": "KOTA BONTANG",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "RUMPUT LAUT",
+        "Jenis Ikan": "RUMPUT LAUT EUCHEUMA COTTONII",
+        "Volume Produksi (Ton)": 4125.48,
+        "Nilai Produksi (Rp 000)": 12376440
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KOTA BONTANG",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "BANDENG",
+        "Jenis Ikan": "BANDENG",
+        "Volume Produksi (Ton)": 4.54,
+        "Nilai Produksi (Rp 000)": 136140
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KOTA BONTANG",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "UDANG",
+        "Jenis Ikan": "UDANG PUTIH; UDANG API-API",
+        "Volume Produksi (Ton)": 1.41,
+        "Nilai Produksi (Rp 000)": 42240
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KOTA BONTANG",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "UDANG",
+        "Jenis Ikan": "UDANG WINDU",
+        "Volume Produksi (Ton)": 2.02,
+        "Nilai Produksi (Rp 000)": 161840
+      }
+    ]
+  },
+  {
+    "key": "gpx3",
+    "title": "Kota Samarinda",
+    "fish data": [
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG TAWAR",
+        "Kabupaten/Kota": "KOTA SAMARINDA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "LELE",
+        "Jenis Ikan": "LELE",
+        "Volume Produksi (Ton)": 117.08,
+        "Nilai Produksi (Rp 000)": 2458638
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG TAWAR",
+        "Kabupaten/Kota": "KOTA SAMARINDA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "MAS",
+        "Jenis Ikan": "MAS",
+        "Volume Produksi (Ton)": 11.44,
+        "Nilai Produksi (Rp 000)": 400260
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG TAWAR",
+        "Kabupaten/Kota": "KOTA SAMARINDA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 39.11,
+        "Nilai Produksi (Rp 000)": 1368920
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG TAWAR",
+        "Kabupaten/Kota": "KOTA SAMARINDA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "PATIN",
+        "Jenis Ikan": "PATIN",
+        "Volume Produksi (Ton)": 28.43,
+        "Nilai Produksi (Rp 000)": 710850
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KOTA SAMARINDA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "GURAMI",
+        "Jenis Ikan": "GURAME; GURAMI",
+        "Volume Produksi (Ton)": 16.35,
+        "Nilai Produksi (Rp 000)": 817650
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KOTA SAMARINDA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "LELE",
+        "Jenis Ikan": "LELE",
+        "Volume Produksi (Ton)": 564.20,
+        "Nilai Produksi (Rp 000)": 11848179
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KOTA SAMARINDA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "MAS",
+        "Jenis Ikan": "MAS",
+        "Volume Produksi (Ton)": 2.73,
+        "Nilai Produksi (Rp 000)": 95410
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KOTA SAMARINDA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 26.91,
+        "Nilai Produksi (Rp 000)": 941920
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KOTA SAMARINDA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "PATIN",
+        "Jenis Ikan": "PATIN",
+        "Volume Produksi (Ton)": 16.43,
+        "Nilai Produksi (Rp 000)": 410750
+      }
+    ]
+  },
+  {
+    "key": "gpx4",
+    "title": "Kabupaten Kutai Barat",
+    "fish data": [
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG TAWAR",
+        "Kabupaten/Kota": "KUTAI BARAT",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "LELE",
+        "Jenis Ikan": "LELE",
+        "Volume Produksi (Ton)": 12.76,
+        "Nilai Produksi (Rp 000)": 255100
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG TAWAR",
+        "Kabupaten/Kota": "KUTAI BARAT",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "MAS",
+        "Jenis Ikan": "MAS",
+        "Volume Produksi (Ton)": 153.78,
+        "Nilai Produksi (Rp 000)": 5074575
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG TAWAR",
+        "Kabupaten/Kota": "KUTAI BARAT",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 95.10,
+        "Nilai Produksi (Rp 000)": 3328500
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI BARAT",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "BAUNG PUTIH",
+        "Volume Produksi (Ton)": 56.35,
+        "Nilai Produksi (Rp 000)": 1408700
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI BARAT",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "GABUS ",
+        "Volume Produksi (Ton)": 110.13,
+        "Nilai Produksi (Rp 000)": 4955715
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI BARAT",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "JELAWAT",
+        "Volume Produksi (Ton)": 100.19,
+        "Nilai Produksi (Rp 000)": 3807334
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI BARAT",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "TOMAN",
+        "Volume Produksi (Ton)": 104.47,
+        "Nilai Produksi (Rp 000)": 2089480
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI BARAT",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "LELE",
+        "Jenis Ikan": "LELE",
+        "Volume Produksi (Ton)": 198.02,
+        "Nilai Produksi (Rp 000)": 3960360
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI BARAT",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "MAS",
+        "Jenis Ikan": "MAS",
+        "Volume Produksi (Ton)": 425.35,
+        "Nilai Produksi (Rp 000)": 14036484
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI BARAT",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 428.91,
+        "Nilai Produksi (Rp 000)": 15011885
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI BARAT",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "PATIN",
+        "Jenis Ikan": "PATIN",
+        "Volume Produksi (Ton)": 188.32,
+        "Nilai Produksi (Rp 000)": 4143018
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KUTAI BARAT",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "LELE",
+        "Jenis Ikan": "LELE",
+        "Volume Produksi (Ton)": 218.74,
+        "Nilai Produksi (Rp 000)": 4374860
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KUTAI BARAT",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "MAS",
+        "Jenis Ikan": "MAS",
+        "Volume Produksi (Ton)": 103.06,
+        "Nilai Produksi (Rp 000)": 3400947
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KUTAI BARAT",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 206.94,
+        "Nilai Produksi (Rp 000)": 7242935
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KUTAI BARAT",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "PATIN",
+        "Jenis Ikan": "PATIN",
+        "Volume Produksi (Ton)": 3.36,
+        "Nilai Produksi (Rp 000)": 73854
+      }
+    ]
+  },
+  {
+    "key": "gpx5",
+    "title": "Kabupaten Kutai Kartanegara",
+    "fish data": [
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "GURAMI",
+        "Jenis Ikan": "GURAME; GURAMI",
+        "Volume Produksi (Ton)": 13.20,
+        "Nilai Produksi (Rp 000)": 791820
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "BAUNG PUTIH",
+        "Volume Produksi (Ton)": 3856.18,
+        "Nilai Produksi (Rp 000)": 146534650
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "BAWAL AIR TAWAR",
+        "Volume Produksi (Ton)": 29.07,
+        "Nilai Produksi (Rp 000)": 872100
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "BETUTU",
+        "Volume Produksi (Ton)": 115.77,
+        "Nilai Produksi (Rp 000)": 14471000
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "GABUS ",
+        "Volume Produksi (Ton)": 9636.75,
+        "Nilai Produksi (Rp 000)": 385470000
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "JELAWAT",
+        "Volume Produksi (Ton)": 288.69,
+        "Nilai Produksi (Rp 000)": 8660730
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "SIDAT",
+        "Volume Produksi (Ton)": 16.09,
+        "Nilai Produksi (Rp 000)": 1769900
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "TOMAN",
+        "Volume Produksi (Ton)": 10928.68,
+        "Nilai Produksi (Rp 000)": 318390720
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "LELE",
+        "Jenis Ikan": "LELE",
+        "Volume Produksi (Ton)": 162,
+        "Nilai Produksi (Rp 000)": 4049875
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "MAS",
+        "Jenis Ikan": "MAS",
+        "Volume Produksi (Ton)": 14274.97,
+        "Nilai Produksi (Rp 000)": 499623950
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 37276.49,
+        "Nilai Produksi (Rp 000)": 1304677255
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KARAMBA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "PATIN",
+        "Jenis Ikan": "PATIN",
+        "Volume Produksi (Ton)": 11419.24,
+        "Nilai Produksi (Rp 000)": 342357400
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "GURAMI",
+        "Jenis Ikan": "GURAME; GURAMI",
+        "Volume Produksi (Ton)": 16.38,
+        "Nilai Produksi (Rp 000)": 982500
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "BAWAL AIR TAWAR",
+        "Volume Produksi (Ton)": 11.08,
+        "Nilai Produksi (Rp 000)": 332310
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "BETOK ",
+        "Volume Produksi (Ton)": 14.03,
+        "Nilai Produksi (Rp 000)": 1052100
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "GABUS ",
+        "Volume Produksi (Ton)": 19.71,
+        "Nilai Produksi (Rp 000)": 788400
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "LELE",
+        "Jenis Ikan": "LELE",
+        "Volume Produksi (Ton)": 1031.77,
+        "Nilai Produksi (Rp 000)": 25794250
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "MAS",
+        "Jenis Ikan": "MAS",
+        "Volume Produksi (Ton)": 344.47,
+        "Nilai Produksi (Rp 000)": 12056450
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 509.58,
+        "Nilai Produksi (Rp 000)": 17835125
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "PATIN",
+        "Jenis Ikan": "PATIN",
+        "Volume Produksi (Ton)": 480.92,
+        "Nilai Produksi (Rp 000)": 14429375
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "LAUT LAINNYA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "KEKERANGAN",
+        "Jenis Ikan": "KERANG DARAH",
+        "Volume Produksi (Ton)": 1187.33,
+        "Nilai Produksi (Rp 000)": 14247900
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "MINAPADI (SAWAH)",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "MAS",
+        "Jenis Ikan": "MAS",
+        "Volume Produksi (Ton)": 1.69,
+        "Nilai Produksi (Rp 000)": 59150
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "MINAPADI (SAWAH)",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 4.21,
+        "Nilai Produksi (Rp 000)": 147350
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "RUMPUT LAUT",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "RUMPUT LAUT",
+        "Jenis Ikan": "RUMPUT LAUT EUCHEUMA COTTONII",
+        "Volume Produksi (Ton)": 1845.01,
+        "Nilai Produksi (Rp 000)": 14084495
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "BANDENG",
+        "Jenis Ikan": "BANDENG",
+        "Volume Produksi (Ton)": 5807.60,
+        "Nilai Produksi (Rp 000)": 58076000
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "BARONANG ",
+        "Volume Produksi (Ton)": 430.44,
+        "Nilai Produksi (Rp 000)": 19369665
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "BELANAK",
+        "Volume Produksi (Ton)": 3328.14,
+        "Nilai Produksi (Rp 000)": 73219080
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "MUJAIR",
+        "Volume Produksi (Ton)": 2252.23,
+        "Nilai Produksi (Rp 000)": 61926200
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "KAKAP",
+        "Jenis Ikan": "KAKAP",
+        "Volume Produksi (Ton)": 341.82,
+        "Nilai Produksi (Rp 000)": 11451270
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "KEPITING",
+        "Jenis Ikan": "KEPITING ",
+        "Volume Produksi (Ton)": 8755.69,
+        "Nilai Produksi (Rp 000)": 350227560
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "RUMPUT LAUT",
+        "Jenis Ikan": "RUMPUT LAUT GRACILARIA VERRUCOSA",
+        "Volume Produksi (Ton)": 41386.53,
+        "Nilai Produksi (Rp 000)": 132116407
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "UDANG",
+        "Jenis Ikan": "UDANG BINTIK MERAH",
+        "Volume Produksi (Ton)": 7860.87,
+        "Nilai Produksi (Rp 000)": 471652200
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "UDANG",
+        "Jenis Ikan": "UDANG PUTIH; UDANG API-API",
+        "Volume Produksi (Ton)": 9130.44,
+        "Nilai Produksi (Rp 000)": 776086975
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "UDANG",
+        "Jenis Ikan": "UDANG VANAME",
+        "Volume Produksi (Ton)": 9.14,
+        "Nilai Produksi (Rp 000)": 639730
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KUTAI KARTANEGARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "UDANG",
+        "Jenis Ikan": "UDANG WINDU",
+        "Volume Produksi (Ton)": 10040.64,
+        "Nilai Produksi (Rp 000)": 1004064000
+      }
+    ]
+  },
+  {
+    "key": "gpx6",
+    "title": "Kabupaten Kutai Timur",
+    "fish data": [
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG LAUT",
+        "Kabupaten/Kota": "KUTAI TIMUR",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "KERAPU",
+        "Jenis Ikan": "KERAPU SUNU",
+        "Volume Produksi (Ton)": 0.08,
+        "Nilai Produksi (Rp 000)": 11400
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG LAUT",
+        "Kabupaten/Kota": "KUTAI TIMUR",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "LOBSTER AIR LAUT",
+        "Jenis Ikan": "LOBSTER BAMBU",
+        "Volume Produksi (Ton)": 0.22,
+        "Nilai Produksi (Rp 000)": 70200
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG LAUT",
+        "Kabupaten/Kota": "KUTAI TIMUR",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "LOBSTER AIR LAUT",
+        "Jenis Ikan": "LOBSTER MUTIARA",
+        "Volume Produksi (Ton)": 0.14,
+        "Nilai Produksi (Rp 000)": 64350
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG TAWAR",
+        "Kabupaten/Kota": "KUTAI TIMUR",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "MAS",
+        "Jenis Ikan": "MAS",
+        "Volume Produksi (Ton)": 14.29,
+        "Nilai Produksi (Rp 000)": 629523
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG TAWAR",
+        "Kabupaten/Kota": "KUTAI TIMUR",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 19.18,
+        "Nilai Produksi (Rp 000)": 691318
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KUTAI TIMUR",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "BAWAL AIR TAWAR",
+        "Volume Produksi (Ton)": 62.39,
+        "Nilai Produksi (Rp 000)": 2807460
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KUTAI TIMUR",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "LELE",
+        "Jenis Ikan": "LELE",
+        "Volume Produksi (Ton)": 256.82,
+        "Nilai Produksi (Rp 000)": 6979668
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KUTAI TIMUR",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "MAS",
+        "Jenis Ikan": "MAS",
+        "Volume Produksi (Ton)": 146.20,
+        "Nilai Produksi (Rp 000)": 6465591
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KUTAI TIMUR",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 234.30,
+        "Nilai Produksi (Rp 000)": 9485680
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "KUTAI TIMUR",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "PATIN",
+        "Jenis Ikan": "PATIN",
+        "Volume Produksi (Ton)": 55.09,
+        "Nilai Produksi (Rp 000)": 2203480
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "MINAPADI (SAWAH)",
+        "Kabupaten/Kota": "KUTAI TIMUR",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "MAS",
+        "Jenis Ikan": "MAS",
+        "Volume Produksi (Ton)": 1.65,
+        "Nilai Produksi (Rp 000)": 66000
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "MINAPADI (SAWAH)",
+        "Kabupaten/Kota": "KUTAI TIMUR",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 2.39,
+        "Nilai Produksi (Rp 000)": 83650
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "RUMPUT LAUT",
+        "Kabupaten/Kota": "KUTAI TIMUR",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "RUMPUT LAUT",
+        "Jenis Ikan": "RUMPUT LAUT EUCHEUMA COTTONII",
+        "Volume Produksi (Ton)": 75.30,
+        "Nilai Produksi (Rp 000)": 527128
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "RUMPUT LAUT",
+        "Kabupaten/Kota": "KUTAI TIMUR",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "RUMPUT LAUT",
+        "Jenis Ikan": "RUMPUT LAUT EUCHEUMA SPINOSUM",
+        "Volume Produksi (Ton)": 75,
+        "Nilai Produksi (Rp 000)": 525007
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KUTAI TIMUR",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "BANDENG",
+        "Jenis Ikan": "BANDENG",
+        "Volume Produksi (Ton)": 10.92,
+        "Nilai Produksi (Rp 000)": 294750
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KUTAI TIMUR",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "UDANG",
+        "Jenis Ikan": "UDANG BINTIK MERAH",
+        "Volume Produksi (Ton)": 10.52,
+        "Nilai Produksi (Rp 000)": 342315
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KUTAI TIMUR",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "UDANG",
+        "Jenis Ikan": "UDANG VANAME",
+        "Volume Produksi (Ton)": 13.29,
+        "Nilai Produksi (Rp 000)": 730785
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "KUTAI TIMUR",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "UDANG",
+        "Jenis Ikan": "UDANG WINDU",
+        "Volume Produksi (Ton)": 2.96,
+        "Nilai Produksi (Rp 000)": 251940
+      }
+    ]
+  },
+  {
+    "key": "gpx7",
+    "title": "Kabupaten Mahakam Ulu",
+    "fish data": [
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "MAHAKAM ULU",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "LELE",
+        "Jenis Ikan": "LELE",
+        "Volume Produksi (Ton)": 1.17,
+        "Nilai Produksi (Rp 000)": 70140
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "MAHAKAM ULU",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 1.72,
+        "Nilai Produksi (Rp 000)": 103080
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "MAHAKAM ULU",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "PATIN",
+        "Jenis Ikan": "PATIN",
+        "Volume Produksi (Ton)": 0.85,
+        "Nilai Produksi (Rp 000)": 54990
+      }
+    ]
+  },
+  {
+    "key": "gpx8",
+    "title": "Kabupaten Paser",
+    "fish data": [
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG TAWAR",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "LELE",
+        "Jenis Ikan": "LELE",
+        "Volume Produksi (Ton)": 9.51,
+        "Nilai Produksi (Rp 000)": 237625
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG TAWAR",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 1.31,
+        "Nilai Produksi (Rp 000)": 49790
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING TANCAP TAWAR",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "LELE",
+        "Jenis Ikan": "LELE",
+        "Volume Produksi (Ton)": 25.67,
+        "Nilai Produksi (Rp 000)": 590387
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING TANCAP TAWAR",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 8.65,
+        "Nilai Produksi (Rp 000)": 302785
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "GURAMI",
+        "Jenis Ikan": "GURAME; GURAMI",
+        "Volume Produksi (Ton)": 3.14,
+        "Nilai Produksi (Rp 000)": 251280
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "LELE",
+        "Jenis Ikan": "LELE",
+        "Volume Produksi (Ton)": 173.01,
+        "Nilai Produksi (Rp 000)": 3979299
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "MAS",
+        "Jenis Ikan": "MAS",
+        "Volume Produksi (Ton)": 1.11,
+        "Nilai Produksi (Rp 000)": 38955
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 21.70,
+        "Nilai Produksi (Rp 000)": 759465
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "PATIN",
+        "Jenis Ikan": "PATIN",
+        "Volume Produksi (Ton)": 1.81,
+        "Nilai Produksi (Rp 000)": 54180
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "BANDENG",
+        "Jenis Ikan": "BANDENG",
+        "Volume Produksi (Ton)": 7080.69,
+        "Nilai Produksi (Rp 000)": 134939836
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "BANDENG",
+        "Jenis Ikan": "BANDENG LAKI",
+        "Volume Produksi (Ton)": 99.93,
+        "Nilai Produksi (Rp 000)": 999340
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "BANDENG",
+        "Jenis Ikan": "BULAN-BULAN",
+        "Volume Produksi (Ton)": 47,
+        "Nilai Produksi (Rp 000)": 328986
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "BELANAK",
+        "Volume Produksi (Ton)": 63.57,
+        "Nilai Produksi (Rp 000)": 541914
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "KAKAP",
+        "Jenis Ikan": "KAKAP TAMBAK",
+        "Volume Produksi (Ton)": 472,
+        "Nilai Produksi (Rp 000)": 11799975
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "KEPITING",
+        "Jenis Ikan": "KEPITING BAKAU ",
+        "Volume Produksi (Ton)": 8.50,
+        "Nilai Produksi (Rp 000)": 425100
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 75,
+        "Nilai Produksi (Rp 000)": 750000
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "RUMPUT LAUT",
+        "Jenis Ikan": "RUMPUT LAUT GRACILARIA VERRUCOSA",
+        "Volume Produksi (Ton)": 4510,
+        "Nilai Produksi (Rp 000)": 10594998
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "UDANG",
+        "Jenis Ikan": "UDANG BINTIK MERAH",
+        "Volume Produksi (Ton)": 62,
+        "Nilai Produksi (Rp 000)": 1860030
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "UDANG",
+        "Jenis Ikan": "UDANG PUTIH; UDANG API-API",
+        "Volume Produksi (Ton)": 108,
+        "Nilai Produksi (Rp 000)": 5399850
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PASER",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "UDANG",
+        "Jenis Ikan": "UDANG WINDU",
+        "Volume Produksi (Ton)": 1521,
+        "Nilai Produksi (Rp 000)": 191280000
+      }
+    ]
+  },
+  {
+    "key": "gpx9",
+    "title": "Kabupaten Penajam Paser Utara",
+    "fish data": [
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "JARING APUNG LAUT",
+        "Kabupaten/Kota": "PENAJAM PASER UTARA",
+        "Matra": "LAUT",
+        "Kelompok Ikan": "KERAPU",
+        "Jenis Ikan": "KERAPU LUMPUR",
+        "Volume Produksi (Ton)": 0.10,
+        "Nilai Produksi (Rp 000)": 5500
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "PENAJAM PASER UTARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "GURAMI",
+        "Jenis Ikan": "GURAME; GURAMI",
+        "Volume Produksi (Ton)": 0.17,
+        "Nilai Produksi (Rp 000)": 6308
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "PENAJAM PASER UTARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "LELE",
+        "Jenis Ikan": "LELE",
+        "Volume Produksi (Ton)": 15.16,
+        "Nilai Produksi (Rp 000)": 272844
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "PENAJAM PASER UTARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "MAS",
+        "Jenis Ikan": "MAS",
+        "Volume Produksi (Ton)": 0.40,
+        "Nilai Produksi (Rp 000)": 11850
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "PENAJAM PASER UTARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "NILA",
+        "Jenis Ikan": "NILA",
+        "Volume Produksi (Ton)": 12.58,
+        "Nilai Produksi (Rp 000)": 377490
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "KOLAM AIR TENANG",
+        "Kabupaten/Kota": "PENAJAM PASER UTARA",
+        "Matra": "TAWAR",
+        "Kelompok Ikan": "PATIN",
+        "Jenis Ikan": "PATIN",
+        "Volume Produksi (Ton)": 1.49,
+        "Nilai Produksi (Rp 000)": 29800
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PENAJAM PASER UTARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "BANDENG",
+        "Jenis Ikan": "BANDENG",
+        "Volume Produksi (Ton)": 412.85,
+        "Nilai Produksi (Rp 000)": 7018450
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PENAJAM PASER UTARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "BANDENG",
+        "Jenis Ikan": "BULAN-BULAN",
+        "Volume Produksi (Ton)": 2.90,
+        "Nilai Produksi (Rp 000)": 20293
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PENAJAM PASER UTARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "BELANAK",
+        "Volume Produksi (Ton)": 2.38,
+        "Nilai Produksi (Rp 000)": 19032
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PENAJAM PASER UTARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "IKAN LAINNYA",
+        "Jenis Ikan": "MUJAIR",
+        "Volume Produksi (Ton)": 5.23,
+        "Nilai Produksi (Rp 000)": 104620
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PENAJAM PASER UTARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "KAKAP",
+        "Jenis Ikan": "KAKAP PUTIH; BARAMUNDI",
+        "Volume Produksi (Ton)": 4.52,
+        "Nilai Produksi (Rp 000)": 158025
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PENAJAM PASER UTARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "KEPITING",
+        "Jenis Ikan": "KEPITING BAKAU ",
+        "Volume Produksi (Ton)": 933.26,
+        "Nilai Produksi (Rp 000)": 32664065
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PENAJAM PASER UTARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "RUMPUT LAUT",
+        "Jenis Ikan": "RUMPUT LAUT GRACILARIA VERRUCOSA",
+        "Volume Produksi (Ton)": 8350,
+        "Nilai Produksi (Rp 000)": 6680000
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PENAJAM PASER UTARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "UDANG",
+        "Jenis Ikan": "UDANG BRINTIK",
+        "Volume Produksi (Ton)": 190.01,
+        "Nilai Produksi (Rp 000)": 7980420
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PENAJAM PASER UTARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "UDANG",
+        "Jenis Ikan": "UDANG PUTIH; UDANG API-API",
+        "Volume Produksi (Ton)": 65.76,
+        "Nilai Produksi (Rp 000)": 2630440
+      },
+      {
+        "Tahun": "2023",
+        "Provinsi": "KALIMANTAN TIMUR",
+        "Jenis Pembesaran": "TAMBAK SEDERHANA",
+        "Kabupaten/Kota": "PENAJAM PASER UTARA",
+        "Matra": "PAYAU",
+        "Kelompok Ikan": "UDANG",
+        "Jenis Ikan": "UDANG WINDU",
+        "Volume Produksi (Ton)": 45.99,
+        "Nilai Produksi (Rp 000)": 5978700
+      }
+    ]
+  }
+]

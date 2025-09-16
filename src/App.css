@@ -1,0 +1,18 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+}
+
+.main-content{
+  margin-left: 15.5rem;
+  padding: 1rem;
+  transition: var(--trans-all);
+  -webkit-transition: var(--trans-all);
+  -moz-transition: var(--trans-all);
+  -ms-transition: var(--trans-all);
+  -o-transition: var(--trans-all);
+}
+
+.main-content.collapse{
+  margin-left: 5.9rem;
+}

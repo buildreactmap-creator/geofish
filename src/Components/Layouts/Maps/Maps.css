@@ -1,0 +1,59 @@
+.card__map {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.svg__map {
+  background: var(--map-bg);
+  box-shadow: var(--box-shadow);
+  border-radius: var(--card-border-radius);
+}
+
+.global__path {
+  pointer-events: fill;
+}
+
+.global__path path {
+  fill: var(--map-fill);
+}
+
+.global__path:hover path {
+  fill: var(--map-hover);
+}
+
+.global__path.active path {
+  fill: var(--map-active);
+}
+
+.global__line .st1 {
+  fill: none;
+  pointer-events: none;
+  stroke: var(--color-dark);
+  stroke-width: 0.3;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.path {
+  fill: var(--map-fill);
+}
+
+.path:hover {
+  fill: var(--map-hover);
+}
+
+.path.active{
+  fill: var(--map-active);
+}
+
+.line {
+  fill: none;
+  pointer-events: none;
+  stroke: var(--color-dark);
+  stroke-width: 0.2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
