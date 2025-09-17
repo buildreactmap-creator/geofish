@@ -9,7 +9,6 @@ export default function Maps({ dataMaps }) {
   const [transform, setTransform] = useState("translate(0, 0) scale(1)");
   const [transisi, setTransition] = useState("");
   const [selectedId, setSelectedId] = useState(null);
-
   const [nameEnter, setNameEnter] = useState("Provinsi Kalimantan Timur");
 
   const focusOn = (event) => {
@@ -29,12 +28,12 @@ export default function Maps({ dataMaps }) {
   };
 
   const setReset = document.querySelectorAll(".path");
-  const reset = () => {
+  const reset = (e) => {
     setTransform("translate(0, 0) scale(1)");
     setTransition("all 500ms ease");
     setSelectedId(null);
     dataMaps(false);
-    setReset.forEach(a => a.classList.remove("active"))
+    setReset.forEach((a) => a.classList.remove("active"));
   };
 
   const handlePathClick = (e) => {
@@ -46,14 +45,16 @@ export default function Maps({ dataMaps }) {
       if (id && id === selectedId) {
         // klik path yang sama -> kembali ke tampilan awal
         reset();
-        a.classList.remove("active");
       } else {
         // fokus ke path yang baru di-klik
-        e.currentTarget.classList.add("active");
-
+            // lebih dulu lakukan clearing active
         if (a.classList.contains("active")) {
           a.classList.remove("active");
         }
+            // Kemudian Tambahakan Active
+        e.currentTarget.classList.add("active");
+
+            // setting state yang dibutuhkan
         setSelectedId(id);
         focusOn(e.currentTarget);
         dataMaps(id);
@@ -67,7 +68,6 @@ export default function Maps({ dataMaps }) {
   };
 
   const enterName = (e) => {
-    // console.log(e.currentTarget.id);
     setNameEnter(e.currentTarget.id);
   };
 
@@ -86,7 +86,11 @@ export default function Maps({ dataMaps }) {
         onClick={handleSvgClick}
       >
         <title>{nameEnter}</title>
-        <g className="global__transform" transform={transform} style={{transition: transisi}}>
+        <g
+          className="global__transform"
+          transform={transform}
+          style={{ transition: transisi }}
+        >
           <g
             className="group__path"
             transform="matrix(0.999751,0,0,0.999751,0,0)"

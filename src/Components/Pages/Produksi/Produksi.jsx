@@ -1,7 +1,7 @@
 import { useState } from "react";
 import errSvg from "../../../assets/Error-Illustration.svg";
 
-export default function Pdb() {
+export default function Produksi() {
   return (
     <div className="pengembangan">
       <h3>Halaman ini masih dalam pengembangan ......</h3>

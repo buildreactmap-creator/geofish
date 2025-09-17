@@ -73,6 +73,10 @@ button {
   border: none;
   cursor: pointer;
 }
+span {
+  color: var(--color-dark);
+  font-weight: normal;
+}
 
 .img-fit-cover img {
   width: 100%;

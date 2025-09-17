@@ -13,7 +13,7 @@ export default function CurrentTablesFish() {
 
     results.push([t, v, n]);
   });
-  console.log(results);
+  // console.log(results);
   return (
     <div className="container__fish">
       <h4>

@@ -45,7 +45,7 @@
   fill: var(--map-hover);
 }
 
-.path.active{
+.path.active {
   fill: var(--map-active);
 }
 
