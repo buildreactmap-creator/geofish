@@ -144,100 +144,103 @@ export default function BasicTable() {
     setPage(0);
   };
   return (
-    <StyledTableContainer component={Paper}>
-      <StyledTable sx={{ minWidth: 650 }} aria-label="simple table">
-        <TableHead>
-          <TableRow>
-            <TableCell component="th" align="center">
-              No.
-            </TableCell>
-            <TableCell component="th" align="center">
-              Kode Kawasan
-            </TableCell>
-            <TableCell component="th" align="center">
-              NAMOBJ
-            </TableCell>
-            <TableCell component="th" align="center">
-              ORDE01
-            </TableCell>
-            <TableCell component="th" align="center">
-              JNSRPR
-            </TableCell>
-            <TableCell component="th" align="center">
-              REMARK
-            </TableCell>
-            <TableCell component="th" align="right">
-              LUASHA
-            </TableCell>
-          </TableRow>
-        </TableHead>
-        <TableBody>
-          {(rowsPerPage > 0
-            ? rows.slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage)
-            : rows
-          ).map((row) => (
-            <TableRow key={row.OBJECTID}>
-              <TableCell component="td1" style={{ width: 10 }} align="center">
-                {row.OBJECTID}.
+    <div className="tables__component">
+      <h3>Kesesuaian Kegiatan Pemanfaatan Ruang Laut (KKPRL) <br/> Rencana Tata Ruang Wilayah (RTRW) Provinsi Kalimantan Timur</h3>
+      <StyledTableContainer component={Paper}>
+        <StyledTable sx={{ minWidth: 650 }} aria-label="simple table">
+          <TableHead>
+            <TableRow>
+              <TableCell component="th" align="center">
+                No.
               </TableCell>
-              <TableCell
-                style={{ width: 130 }}
-                component="td1"
-                scope="row"
-                align="center"
-              >
-                {row.KODKWS}
+              <TableCell component="th" align="center">
+                Kode Kawasan
               </TableCell>
-              <TableCell component="td" align="center" style={{ width: 160 }}>
-                {row.NAMOBJ}
+              <TableCell component="th" align="center">
+                NAMOBJ
               </TableCell>
-              <TableCell component="td" align="center" style={{ width: 160 }}>
-                {row.ORDE01}
+              <TableCell component="th" align="center">
+                ORDE01
               </TableCell>
-              <TableCell component="td" align="center" style={{ width: 160 }}>
-                {row.JNSRPR}
+              <TableCell component="th" align="center">
+                JNSRPR
               </TableCell>
-              <TableCell component="td" style={{ width: 260 }}>
-                {row.REMARK}
+              <TableCell component="th" align="center">
+                REMARK
               </TableCell>
-              <TableCell component="td1" style={{ width: 160 }} align="right">
-                {new Intl.NumberFormat("id-ID", {
-                  style: "decimal",
-                  maximumFractionDigits: 2,
-                }).format(row.LUASHA)}
-                <span component="comp">&nbsp;(ha)</span>
+              <TableCell component="th" align="right">
+                LUASHA
               </TableCell>
             </TableRow>
-          ))}
-          {emptyRows > 0 && (
-            <TableRow style={{ height: 53 * emptyRows }}>
-              <TableCell colSpan={6} />
-            </TableRow>
-          )}
-        </TableBody>
-        <TableFooter>
-          <TableRow>
-            <TablePagination
-              rowsPerPageOptions={[10, 25, 50, { label: "All", value: -1 }]}
-              colSpan={7}
-              count={rows.length}
-              rowsPerPage={rowsPerPage}
-              page={page}
-              slotProps={{
-                select: {
-                  inputProps: {
-                    "aria-label": "rows per page",
+          </TableHead>
+          <TableBody>
+            {(rowsPerPage > 0
+              ? rows.slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage)
+              : rows
+            ).map((row) => (
+              <TableRow key={row.OBJECTID}>
+                <TableCell component="td1" style={{ width: 10 }} align="center">
+                  {row.OBJECTID}.
+                </TableCell>
+                <TableCell
+                  style={{ width: 130 }}
+                  component="td1"
+                  scope="row"
+                  align="center"
+                >
+                  {row.KODKWS}
+                </TableCell>
+                <TableCell component="td" align="center" style={{ width: 160 }}>
+                  {row.NAMOBJ}
+                </TableCell>
+                <TableCell component="td" align="center" style={{ width: 160 }}>
+                  {row.ORDE01}
+                </TableCell>
+                <TableCell component="td" align="center" style={{ width: 160 }}>
+                  {row.JNSRPR}
+                </TableCell>
+                <TableCell component="td" style={{ width: 260 }}>
+                  {row.REMARK}
+                </TableCell>
+                <TableCell component="td1" style={{ width: 160 }} align="right">
+                  {new Intl.NumberFormat("id-ID", {
+                    style: "decimal",
+                    maximumFractionDigits: 2,
+                  }).format(row.LUASHA)}
+                  <span component="comp">&nbsp;(ha)</span>
+                </TableCell>
+              </TableRow>
+            ))}
+            {emptyRows > 0 && (
+              <TableRow style={{ height: 53 * emptyRows }}>
+                <TableCell colSpan={6} />
+              </TableRow>
+            )}
+          </TableBody>
+          <TableFooter>
+            <TableRow>
+              <TablePagination
+                rowsPerPageOptions={[10, 25, 50, { label: "All", value: -1 }]}
+                colSpan={7}
+                count={rows.length}
+                rowsPerPage={rowsPerPage}
+                page={page}
+                slotProps={{
+                  select: {
+                    inputProps: {
+                      "aria-label": "rows per page",
+                    },
+                    native: true,
                   },
-                  native: true,
-                },
-              }}
-              onPageChange={handleChangePage}
-              onRowsPerPageChange={handleChangeRowsPerPage}
-              ActionsComponent={TablePaginationActions}
-            />
-          </TableRow>
-        </TableFooter>
-      </StyledTable>
-    </StyledTableContainer>
+                }}
+                onPageChange={handleChangePage}
+                onRowsPerPageChange={handleChangeRowsPerPage}
+                ActionsComponent={TablePaginationActions}
+              />
+            </TableRow>
+          </TableFooter>
+        </StyledTable>
+      </StyledTableContainer>
+    </div>
   );
 }
